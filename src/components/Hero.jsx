@@ -8,7 +8,7 @@ function Hero() {
       <div className="hero-content">
         <p className="hero-greeting">Hi, my name is</p>
         <h1 className="hero-name">Devesh Chandra Shukla</h1>
-        <h2 className="hero-title">QA Engineer</h2>
+        <h2 className="hero-title">AI QA Engineer</h2>
         <p className="hero-description">
           Results-driven QA Engineer with 6+ years of experience in automation and manual testing.
           Expertise in Playwright, API validation, and CI/CD integration.

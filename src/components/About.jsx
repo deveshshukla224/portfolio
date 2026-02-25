@@ -35,7 +35,7 @@ function About() {
         <div className="about-content">
           <div ref={textRef} className={`about-text reveal-left ${textVisible ? 'visible' : ''}`}>
             <p>
-              I'm a results-driven QA Engineer with <strong>6+ years</strong> of experience in automation
+              I'm a results-driven AI QA Engineer with <strong>6+ years</strong> of experience in automation
               and manual testing. I specialize in building robust test frameworks using
               <strong> Playwright</strong>, validating APIs, and integrating testing into CI/CD pipelines.
             </p>
